@@ -1,0 +1,19 @@
+
+
+config: {
+
+request: {
+    headers: [],
+    bodyTemplate: "TEXT template here. can use loops, etc."
+},
+
+
+response: {
+
+
+
+}
+
+
+
+}
